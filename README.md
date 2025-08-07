@@ -71,6 +71,3 @@ The dataset contains hotel booking records including:
 
 ---
 
-## 🧮 Confusion Matrices
-
-### 🔷 KNN (Tuned)

@@ -1,0 +1,13 @@
+
+---
+
+### 📦 requirements.txt (Paste this too):
+
+```txt
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+plotly
